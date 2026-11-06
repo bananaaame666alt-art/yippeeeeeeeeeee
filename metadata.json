@@ -1,0 +1,6 @@
+{
+  "name": "AfterHello",
+  "description": "A warm, mobile-friendly personal CRM and networking follow-up tracker for people met at events, with AI email drafting and iCal support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
